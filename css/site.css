@@ -1,0 +1,14 @@
+.aboutme{
+  text-align: center;
+  background-color: lightblue;
+}
+
+#my-portrait {
+    width: 300px;
+    height: 400px;
+}
+
+ul.aboutme{
+  text-align: center;
+  list-style-position: inside;
+}
