@@ -1,0 +1,24 @@
+h1 {
+  text-align: center;
+}
+
+ul {
+  text-align: center;
+  list-style-position: inside;
+}
+
+.output {
+  background-color: #c7c7c7;
+  text-align: center;
+}
+
+p.car {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
