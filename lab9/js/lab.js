@@ -14,7 +14,7 @@
 
 //Creates new element #2
  new2El = document.createElement("p");
- new2El.innerHTML = "Hey look, I'm blue and Papyrus-y. Neat.";
+ new2El.innerHTML = "Hey look, I'm all blue and Papyrus-y now. Cool.";
 
 //Appends both new elements to outputEl
  outputEl.appendChild(new1El);
