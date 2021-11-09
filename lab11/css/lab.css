@@ -1,0 +1,61 @@
+#challenges {
+  background-color: yellow;
+}
+
+#problems {
+  background-color: red;
+}
+
+#results {
+  background-color: lightgreen;
+  text-align: center;
+}
+
+body{
+  background-color:mediumseagreen;
+}
+
+h1 {
+  text-align: center;
+}
+
+ul {
+  text-align: center;
+  list-style-position: inside;
+}
+
+button {
+  margin:0 auto;
+  display:block;
+}
+
+p {
+  text-align: center;
+}
+
+.special {
+  color: red;
+  font-weight: bold;
+  font-size: 100px;
+}
+
+.special2 {
+  color: yellow;
+  font-weight: lighter;
+  font-family: fantasy;
+  font-size: 50px;
+}
+
+.special3 {
+  color: magenta;
+  text-shadow: 2px 2px #255;
+  font-size: 30px;
+}
+
+#goal {
+  text-align: center;
+}
+
+#goal2 {
+  text-align: center;
+}
