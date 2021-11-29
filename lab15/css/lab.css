@@ -1,0 +1,24 @@
+h1 {
+  text-indent: 10px;
+  color: red;
+  font-size: 250%;
+}
+
+p {
+  text-indent: 25px;
+  font-family: "Copperplate";
+}
+
+.going-blue {
+  color: blue;
+}
+
+#content {
+  width: 900px;
+  border: solid 4px #654321;
+  background-color: #456789
+}
+
+body{
+  background-color:mediumseagreen;
+}
